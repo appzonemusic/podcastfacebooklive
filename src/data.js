@@ -102,6 +102,15 @@ function chillHop() {
             audio: "https://musiczoneapps.files.wordpress.com/2022/10/podcast-el-mts-y-su-relacion-con-la-iglesia.mp3",
             active: false,
         },
+        {
+            name:"La Sed y el Sagrado Corazón de Jesús",
+            artist: "Facebook Live",
+            cover: "https://musiczoneapps.files.wordpress.com/2022/10/podcast-1.png",
+            id: uuidv4(),
+            color: ["#1D2731", "#F17E76"],
+            audio: "https://musiczoneapps.files.wordpress.com/2022/11/la-sed-y-el-sagrado-corazon-de-jesus.mp3",
+            active: false,
+        },
     ];
 }
 
