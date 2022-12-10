@@ -111,6 +111,24 @@ function chillHop() {
             audio: "https://musiczoneapps.files.wordpress.com/2022/11/la-sed-y-el-sagrado-corazon-de-jesus.mp3",
             active: false,
         },
+        {
+            name:"La Vocacion y la respuesta de Madre a su Vocacion PARTE 1",
+            artist: "Facebook Live",
+            cover: "https://musiczoneapps.files.wordpress.com/2022/10/podcast-1.png",
+            id: uuidv4(),
+            color: ["#1D2731", "#F17E76"],
+            audio: "https://musiczoneapps.files.wordpress.com/2022/12/la-vocacion-y-respuesta-de-la-madre-a-su-vocacion-pt-1.mp3",
+            active: false,
+        },
+        {
+            name:"La Vocacion y la respuesta de Madre a su Vocacion PARTE 2",
+            artist: "Facebook Live",
+            cover: "https://musiczoneapps.files.wordpress.com/2022/10/podcast-1.png",
+            id: uuidv4(),
+            color: ["#1D2731", "#F17E76"],
+            audio: "https://musiczoneapps.files.wordpress.com/2022/12/la-vocacion-y-respuesta-de-la-madre-a-su-vocacion-pt-2.mp3",
+            active: false,
+        },
     ];
 }
 
