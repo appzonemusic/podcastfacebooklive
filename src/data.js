@@ -147,6 +147,15 @@ function chillHop() {
             audio: "https://musiczoneapps.files.wordpress.com/2023/01/15.-podcast-la-vocacion-y-respuesta-de-la-madre-teresa-a-su-vocacion-parte-3.mp3",
             active: false,
         },
+        {
+            name:"Desafios en el MTS",
+            artist: "Facebook Live",
+            cover: "https://musiczoneapps.files.wordpress.com/2022/10/podcast-1.png",
+            id: uuidv4(),
+            color: ["#1D2731", "#F17E76"],
+            audio: "https://musiczoneapps.files.wordpress.com/2023/02/16.-podcast-desafios-en-el-mts.mp3",
+            active: false,
+        },
     ];
 }
 
