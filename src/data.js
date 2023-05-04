@@ -156,6 +156,15 @@ function chillHop() {
             audio: "https://musiczoneapps.files.wordpress.com/2023/02/16.-podcast-desafios-en-el-mts.mp3",
             active: false,
         },
+        {
+            name:"Liderazgo desde cero",
+            artist: "Facebook Live",
+            cover: "https://musiczoneapps.files.wordpress.com/2022/10/podcast-1.png",
+            id: uuidv4(),
+            color: ["#1D2731", "#F17E76"],
+            audio: "https://musiczoneapps.files.wordpress.com/2023/05/17.-liderazgo-desde-cero-podcast.mp3",
+            active: false,
+        },
     ];
 }
 
